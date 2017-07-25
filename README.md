@@ -4,8 +4,6 @@
 # Screenshot
 #### 随机段子
 
-![image](https://raw.githubusercontent.com/liuling07/SimpleNews/master/screenshot/news.png) 
-
 ![image](https://github.com/zhangqi960110/Joke/raw/master/screenshot/textjoke.jpg)
 
 #### 随机趣图
